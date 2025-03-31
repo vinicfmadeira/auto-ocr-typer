@@ -76,12 +76,6 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 ---
 
-## 📸 Screenshot (Opcional)
-
-Adicione aqui uma imagem ou gif do script em ação, se quiser.
-
----
-
 ## 📄 Licença
 
 MIT — usa, abusa, e adapta como quiser.
